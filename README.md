@@ -18,6 +18,7 @@ HTML5 CSS3 SASS JavaScript React Git Node.js MongoDB
 - 🏅 I’m the best choice for your company
 
 #### 👩🏻‍💼 @kathimansilla
+[LinkedIn](https://www.linkedin.com/in/katherina-mansilla/)
 
 
 
