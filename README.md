@@ -6,8 +6,8 @@ Thanks to my experience, I have developed communication skills 🤝🏼, adaptab
 
 🎯 Passionate about logical processes and teamwork, I find programming to be the ideal stage for further professional growth.
 
-Technologies
-HTML5 CSS3 SASS JavaScript React Git Node.js MongoDB 
+Tools
+| JavaScript | React | Node JS | Express JS | MySQL | MySQL Workbench | MongoDB | MongoCloud | HTML5 | CSS3 | Git | GitHub | FreeDB | Swagger | Render | Agile | Scrum
 
 #### More about me:
 
