@@ -6,9 +6,15 @@ Thanks to my experience, I have developed communication skills 🤝🏼, adaptab
 
 🎯 Passionate about logical processes and teamwork, I find programming to be the ideal stage for further professional growth.
 
-Tools
-  GitHub | FreeDB | Swagger | Render | Agile | Scrum
-<h4 align="left">Languages and Tools:</h4>
+#### More about me:
+
+- 🌱 I’m currently learning JavasCript, React, NodeJS, ExpressJS, SQL, MongoDB, FreeDB, Render, GitHub, Agile, English.
+- 🔭 I’m currently working on my personal project
+- 📫 How to reach me: mansillakatherina@gmail.com and [LinkedIn](https://www.linkedin.com/in/katherina-mansilla/)
+- ⚡ Fun fact: I'am a choir conductor (Teamwork. A lot of teamwork!), music theorist (📐🔢), pianist, singer, and philologist (I'am able to communicate effectively with a client, in both formal and informal settings, as well as address a large audience)
+- 🏅 I’m the best choice for your company
+
+<h4 align="left">Tools:</h4>
 <p align="left">   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -20,14 +26,6 @@ Tools
   <a href="https://kinsta.com/wp-content/uploads/2019/04/logo-mysql-1.svg" target="_blank" rel="noreferrer"> <img src="https://kinsta.com/wp-content/uploads/2019/04/logo-mysql-1.svg" alt="mysql" height="40"/> </a> 
   <a href="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongodb" height="40"/> </a> 
   
-
-#### More about me:
-
-- 🌱 I’m currently learning JavasCript, React, NodeJS, ExpressJS, SQL, MongoDB, FreeDB, Render, GitHub, Agil, English.
-- 🔭 I’m currently working on my personal project
-- 📫 How to reach me: mansillakatherina@gmail.com and [LinkedIn](https://www.linkedin.com/in/katherina-mansilla/)
-- ⚡ Fun fact: I'am a choir conductor (Teamwork. A lot of teamwork!), music theorist (📐🔢), pianist, singer, and philologist (I'am able to communicate effectively with a client, in both formal and informal settings, as well as address a large audience)
-- 🏅 I’m the best choice for your company
 
 #### 👩🏻‍💼 @kathimansilla
 
