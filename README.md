@@ -7,7 +7,7 @@ Thanks to my experience, I have developed communication skills 🤝🏼, adaptab
 🎯 Passionate about logical processes and teamwork, I find programming to be the ideal stage for further professional growth.
 
 Tools
-| JavaScript |  | Node JS | Express JS | MySQL | MySQL Workbench | MongoDB | MongoCloud |  |  |  | GitHub | FreeDB | Swagger | Render | Agile | Scrum
+  GitHub | FreeDB | Swagger | Render | Agile | Scrum
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -17,9 +17,9 @@ Tools
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" width="40" height="40"/> </a> 
   <a href="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" height="40"/> </a> 
+  <a href="https://kinsta.com/wp-content/uploads/2019/04/logo-mysql-1.svg" target="_blank" rel="noreferrer"> <img src="https://kinsta.com/wp-content/uploads/2019/04/logo-mysql-1.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongodb" height="40"/> </a> 
   
-
-
 
 #### More about me:
 
