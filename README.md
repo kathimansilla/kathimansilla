@@ -1,4 +1,6 @@
-### 👋 Full-stack Web Developer - Junior - Musician
+## 👋 Full-stack Web Developer - Junior - Musician
+
+### Graduate of Adalab's web bootcamp 2023
 
 Thanks to my experience, I have developed communication skills 🤝🏼, adaptability across creative 🎼 and scientific 🔬 domains, and the valuable ability to combine my work with continuous learning 🖥️💡. Currently, I am a Full Stack Web Developer ❤️‍🔥. Additionally, I have been a teacher at all educational levels (achieving a promotion at National University of San Luis), a cultural manager, and a research consultant at University of Buenos Aires.
 
