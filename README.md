@@ -1,4 +1,4 @@
-## 👋 Full-stack Web Developer - Junior - Musician
+## 👋 Full-stack Web Developer - Junior 
 
 #### Graduate of Adalab's web bootcamp 2023
 
