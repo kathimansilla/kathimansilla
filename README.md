@@ -12,9 +12,9 @@ Thanks to my experience, I have developed communication skills 🤝🏼, adaptab
 - 🔭 I’m currently working on my personal project
 - 📫 How to reach me: mansillakatherina@gmail.com
 - ⚡ Fun fact: I'am a choir conductor (Teamwork. A lot of teamwork!), music theorist (📐🔢), pianist, singer, and philologist (I'am able to communicate effectively with a client, in both formal and informal settings, as well as address a large audience)
-- 🏅 I’m your best option
+- 🏅 I’m the best choice for your company
 
-#### ✨👩🏻‍💼 @kathimansilla ✨
+#### 👩🏻‍💼 @kathimansilla
 
 
 
