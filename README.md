@@ -6,6 +6,8 @@ Thanks to my experience, I have developed communication skills 🤝🏼, adaptab
 
 🎯 Passionate about logical processes and teamwork, I find programming to be the ideal stage for further professional growth.
 
+My portfolio ✨💻: https://kathimansilla.github.io/portfolio/
+
 #### More about me:
 
 - 🌱 I’m currently learning JavasCript, React, NodeJS, ExpressJS, SQL, MongoDB, FreeDB, Render, GitHub, Agile, English.
