@@ -10,7 +10,7 @@ My portfolio ✨💻: https://kathimansilla.github.io/portfolio/
 
 #### More about me:
 
-- 🌱 I’m currently learning JavasCript, React, NodeJS, ExpressJS, SQL, MongoDB, FreeDB, Render, GitHub, Agile, English.
+- 🌱 I’m currently learning JavasCript, React, NodeJS, ExpressJS, SQL, MongoDB, FreeDB, Render, GitHub, Agile.
 - 🔭 I’m currently working on my personal project
 - 📫 How to reach me: mansillakatherina@gmail.com and [LinkedIn](https://www.linkedin.com/in/katherina-mansilla/)
 - ⚡ Fun fact: I'am a choir conductor (Teamwork. A lot of teamwork!), music theorist (📐🔢), pianist, singer, and philologist (I'am able to communicate effectively with a client, in both formal and informal settings, as well as address a large audience)
