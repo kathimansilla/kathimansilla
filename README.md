@@ -1,4 +1,4 @@
-## 👋 Full-stack Web Developer - Junior 
+## 👋 Full-stack Web Developer
 
 #### Graduate of Adalab's web bootcamp 2023
 
